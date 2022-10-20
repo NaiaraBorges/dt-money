@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 1400,
-      "createAt": "2022-07-29T"
+      "createAt": "2022-07-29T19:24:44.505Z"
 
     },
     {
@@ -15,7 +15,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 59,
-      "createAt": "2022-07-29T"
+      "createAt": "2022-07-30T13:26:57.560Z"
 
     },
     {
@@ -24,7 +24,7 @@
       "type": "outcome",
       "category": "Casa",
       "price": 1500,
-      "createAt": "2022-07-29T19:36:44.50SZ"
+      "createAt": "2022-07-30T13:30:57.560Z"
 
     },
     {
@@ -33,7 +33,7 @@
       "type": "income",
       "category": "Venda",
       "price": 6000,
-      "createAt": "2022-07-29T19:36:44.50SZ"
+      "createAt": "2022-07-30T13:38:57.560Z"
 
     }
 
