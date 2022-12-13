@@ -5,7 +5,7 @@
     
  
 ## <dt> 💲 Descrição </dt> 
-<p>A Aplicação permite que o usuário organiza entradas e saídas por meio de categorias. O serviço mantem um histório das transações cadastradas pelo usuário.</p>
+<p>A Aplicação totalmente responsiva permite que o usuário organiza entradas e saídas por meio de categorias. O serviço mantem um histório das transações cadastradas pelo usuário.</p>
 
 ## <dt> :gear: Configuração de desenvolvimento </dt>
 <p>Clone o repositório e execute os seguintes comandos:</p>
